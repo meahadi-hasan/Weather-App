@@ -1,0 +1,29 @@
+name: myapp
+description: "A Weather App using OpenWeatherMap API"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.3.0
+  provider: ^6.1.5
+  lottie: ^3.3.1
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/weather_animations/rain.json
+    - assets/weather_animations/sunny.json
+    - assets/weather_animations/snowfall.json
+    - assets/weather_animations/cloudy.json

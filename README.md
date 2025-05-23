@@ -24,9 +24,9 @@ A beautiful, responsive weather application built with Flutter that displays cur
 
 ## 📱 App Screenshots
 
-| Home Screen | Screenshot-1 | Screenshot-2 | Screenshot-3 |
+| Home Screen | Screenshot-1 | Screenshot-2 |
 |-------------|--------|-------------|-------------|
-| ![Home](Images/HomeScreen.jpg) | ![Location-1](Images/HomeScreen.jpg) | ![Location-2](Images/Bogra.jpg) | ![Location-3](Images/Istambul.jpg)
+| ![Home](Images/HomeScreen.jpg) | ![Location-1](Images/Bogra.jpg) | ![Location-2](Images/Istambul.jpg)
 
 ## 🚀 Installation
 

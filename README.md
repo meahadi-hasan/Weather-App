@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+# 🌦️ Weather App (Flutter)
 
 A beautiful, responsive weather application built with Flutter that displays current weather conditions using OpenWeatherMap API.
 
@@ -44,7 +44,7 @@ A beautiful, responsive weather application built with Flutter that displays cur
    ```bash
    flutter run
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 
     lib/
     ├── main.dart                # App entry point
@@ -57,27 +57,15 @@ A beautiful, responsive weather application built with Flutter that displays cur
     └── screens/
     └── home_screen.dart     # Main screen
     
-🌐 API Reference
+## 🌐 API Reference
 The app uses OpenWeatherMap API:
 
-Endpoint: https://api.openweathermap.org/data/2.5/weather
+Website: https://openweathermap.org/api
 
 Parameters: q={city}&appid={API_KEY}&units=metric
 
-🤝 Contributing
-Contributions are welcome! Please follow these steps:
 
-Fork the project
-
-Create your feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add some amazing feature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 OpenWeatherMap for the weather data API
 
 LottieFiles for weather animations

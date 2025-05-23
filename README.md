@@ -44,6 +44,12 @@ A beautiful, responsive weather application built with Flutter that displays cur
    ```bash
    flutter run
 
+4. Build  the app:
+
+   ```bash
+   flutter build apk --release
+
+
 ## 🏗️ Project Structure
 
     lib/

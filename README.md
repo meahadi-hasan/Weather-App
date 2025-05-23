@@ -22,11 +22,11 @@ A beautiful, responsive weather application built with Flutter that displays cur
   - lottie: ^3.3.0
   - intl: ^0.18.1
 
-## 📱 App Screenshot
+## 📱 App Screenshots
 
-| Home Screen | Search | Error State |
-|-------------|--------|-------------|
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Error](screenshots/error.png) |
+| Home Screen | Screenshot-1 | Screenshot-2 | Screenshot-3 |
+|-------------|--------|-------------|-------------|
+| ![Home](Images/Home Screen.png) | ![Location-1](Images/Bogra.jpg) | ![Location-2](Images/Istambul.jpg) |
 
 ## 🚀 Installation
 

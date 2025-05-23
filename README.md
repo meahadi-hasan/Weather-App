@@ -1,16 +1,36 @@
-# myapp
+# 🌦️ Weather App
 
-A new Flutter project.
+A beautiful, responsive weather application built with Flutter that displays current weather conditions using OpenWeatherMap API.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Real-time Weather Data** - Get current weather for any city worldwide
+- **Elegant UI** - Clean, modern interface with gradient backgrounds
+- **Detailed Metrics** - Temperature, humidity, wind speed, sunrise/sunset times
+- **Weather Animations** - Lottie animations for different weather conditions
+- **Responsive Design** - Works on both mobile and tablet devices
+- **Error Handling** - User-friendly error messages
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technical Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework**: Flutter (Dart)
+- **State Management**: Built-in setState
+- **API**: OpenWeatherMap
+- **Animation**: Lottie
+- **Dependencies**:
+  - http: ^1.1.0
+  - lottie: ^3.3.0
+  - intl: ^0.18.1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 App Screenshot
+
+| Home Screen | Search | Error State |
+|-------------|--------|-------------|
+| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Error](screenshots/error.png) |
+
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/meahadi-hasan/Weather-App.git
+   cd Weather-App
